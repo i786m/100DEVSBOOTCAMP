@@ -1,0 +1,85 @@
+body {
+    margin: 420px 370px;
+    background-color: rgb(138, 206,233);
+    border-color: rgb(78,203, 62);
+    border-style: solid;
+    
+}
+
+h1 {
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"; 
+  font-style: italic;
+  color: white;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
+
+h2 {
+  font-family:Arial, "Arial Black";
+  font-weight: bold;
+  color: white;
+  margin-left: 50px;
+
+}
+
+img {
+  width: 180px;
+  height: 250px;
+  float: right;
+  padding-bottom: 20px;
+  margin-left:20px;
+  margin-right: 50px;
+  margin-top:5px;
+  margin-bottom: 5px;
+}
+
+/* ul {
+padding: 0;
+} */
+
+span {
+  color: rgb(128,130,130);
+}
+
+p {
+text-align: left;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+color: white;
+margin-right: 10px;	
+margin-left: 50px;
+margin-bottom: 1.5em;
+padding-right: 50px;
+line-height: 1.4;
+}
+
+nav{
+  text-align: center;
+}
+
+nav li {
+  font-family: Arial, "Arial Black";
+  font-weight:bold;
+  display: inline;
+  color: white;
+
+}
+
+nav a{
+  font-family: Arial, "Arial Black";
+  font-weight: bold;	
+  
+}
+
+a:link,
+a:visited {
+color: rgb(79, 203, 151);
+background-color: transparent;
+text-decoration: underline;
+}
+
+footer {
+text-align: center;
+padding: 2px 0 20px 0;
+margin-bottom: 20px;
+}
